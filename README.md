@@ -4,7 +4,7 @@
 
 ## Pre-req:  Jupyter Notebook or Conda
 
-## 1. cd <hw3 folder where a3.ipnyb is present>
+## 1. cd < folder: a3.ipnyb >
 
 ## 2. Start Jupyer Notebok Server By:
 
